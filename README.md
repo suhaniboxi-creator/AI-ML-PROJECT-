@@ -59,7 +59,7 @@ safeher/
 ```bash
 # 1. Clone the repo
 git clone https://github.com/suhaniboxi-creator/AI-ML-PROJECT-.git
-cd check
+cd AI-ML-PROJECT-
 
 # 2. Install dependencies
 pip install -r requirements.txt
