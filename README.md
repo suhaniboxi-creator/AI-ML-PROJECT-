@@ -63,13 +63,10 @@ cd safeher
 
 # 2. Install dependencies
 pip install -r requirements.txt
-```
----
+
 # 3. Run
-```bash
 streamlit run app.py
 ```
-
 Opens at **http://localhost:8501** automatically.
 
 ---
