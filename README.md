@@ -49,7 +49,7 @@ safeher/
 └── README.md               # You're reading it
 ```
 
-> ⚠️ `CrimesOnWomenData.csv` must be in the **same folder** as `app.py`.
+>  `CrimesOnWomenData.csv` must be in the **same folder** as `app.py`.
 
 ---
 
@@ -61,18 +61,11 @@ safeher/
 git clone https://github.com/your-username/safeher.git
 cd safeher
 
-# 2. Create a virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate       # macOS/Linux
-venv\Scripts\activate          # Windows
-
-# 3. Install dependencies
+# 2. Install dependencies
 pip install -r requirements.txt
 ```
-
 ---
-
-## Running the app
+# 3. Run
 ```bash
 streamlit run app.py
 ```
@@ -142,19 +135,7 @@ Present
 > **Note:** The risk predictor is trained on domain-informed synthetic
 > data — no public dataset exists for personal situational safety
 > assessments.
-
----
-
-## Emergency helplines
-
-| Service | Number |
-|---|---|
-| Emergency | **112** |
-| Women's Helpline | **1091** |
-| Police | **100** |
-| Cyber Crime | **1930** |
-| Ambulance | **108** |
-
+> 
 ---
 
 ## Disclaimer
@@ -165,4 +146,3 @@ substitute for professional safety advice or emergency services.
 
 ---
 
-*SafeHer — NCRB data 2001–2021 | Random Forest Classifier | Built for awareness*
