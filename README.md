@@ -58,8 +58,8 @@ safeher/
 **Prerequisites:** Python 3.8+, pip
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/safeher.git
-cd safeher
+git clone https://github.com/suhaniboxi-creator/AI-ML-PROJECT-.git
+cd check
 
 # 2. Install dependencies
 pip install -r requirements.txt
